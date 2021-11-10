@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align=”center”>
-    <img width=1215" height=443" src=”https://user-images.githubusercontent.com/12777708/141163521-7f9a6397-a90b-492b-8de8-972340e20617.png" alt=”my banner”>
+    <img src="https://user-images.githubusercontent.com/12777708/141163521-7f9a6397-a90b-492b-8de8-972340e20617.png">
 </p>
 
 
