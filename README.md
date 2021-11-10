@@ -2,6 +2,19 @@
     <img src="https://user-images.githubusercontent.com/12777708/141163521-7f9a6397-a90b-492b-8de8-972340e20617.png">
 </p>
 
+<h2 align="center">
+    Hi there! I'm [Noah](https://noahcoetsee.me) 👋
+</h2>
+
+<h3 align="center">
+    I'm a full-stack developer 💻 who works on a lot of education tech 📕.
+</h3>
+
+### My Projects
+
+- [pyDraw](https://github.com/pydraw/pyraw)
+- [javaDraw](https://github.com/javadraw/javadraw)
+
 
 <!--
 **noahcoetsee/noahcoetsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
