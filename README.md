@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-    Hi there! I'm [Noah](https://noahcoetsee.me) 👋
+    Hi there! I'm <a href="https://noahcoetsee.me">Noah</a> 👋
 </h2>
 
 <h3 align="center">
